@@ -80,7 +80,6 @@ TRANSITION_FRAMES       = 18 # Speed of transition (lower = faster)
 - **Camera distance:** 60–90cm from hands is ideal.
 - **Contrast:** Wear dark clothes so the hand detection stays clean.
 - **Rehearse transitions:** The shockwave triggers on every open/close change —
-  rehearse so your transitions land on musical cues.
 
 ---
 
